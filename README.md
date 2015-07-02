@@ -5,7 +5,7 @@ My solution is to take high-framerate recording footage of the situation from ab
 Many many results were produced; about 60,000 or so. It makes me laugh every time when I remember that this took more than a day of computation in order to process 7 videos.
 I thought to possibly add multithreading and interpolate different frames to seperate threads, but that may require an overhaul.
 
-Main method in CircleDetector.java IGNORE THE HORRIBLE MESSY CODE!
+Main method in CircleDetector.java IGNORE THE HORRIBLE MESSY CODE IN THIS CLASS!
 (I had to make the GUI in windowbuilder I believe it is called, a plugin for eclipse that lets you create GUI with a WYSIWYG editor, hence the unorganised code.
 The advantage of this was that I could create my own custom GUI component and see what it would look like almost instantly, as well as being able to keep track of all the style settings.
 
